@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gilbert! <br/><a href="https://github.com/joshmadakor1">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/gilbertemodi/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Gilbert! <br/> <a href="https://www.linkedin.com/in/gilbertemodi/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Cloud Engineer Specialist</a> </h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
