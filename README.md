@@ -1,9 +1,9 @@
-<h1>Hi, I'm Gilbert! <br/> <a href="https://www.linkedin.com/in/gilbertemodi/">Cloud Engineer</a>, <a href="https://github.com/gilbertemodi">Cyber Security Specialist</a> </h1>
+<h1>Hi, I'm Gilbert! <br/> <a href="https://www.linkedin.com/in/gilbertemodi/">Cloud Engineer</a>, and <a href="https://github.com/gilbertemodi">Cyber Security Specialist</a> </h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 AWS Cloud Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Place Holder]()
   - [J Wipe](https://github.com/GilbertEmodi/JWipe)
 
 
