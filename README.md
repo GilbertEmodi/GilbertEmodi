@@ -4,12 +4,11 @@
 
 
   - [AWS Three-Tier Web App](https://github.com/GilbertEmodi/AWS-ThreeTier-Web-App)
+
+
+<h2>📺 Cyber Security Projects</h2>
+
   - [J Wipe](https://github.com/GilbertEmodi/JWipe)
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
