@@ -6,7 +6,7 @@
   - [AWS Three-Tier Web App](https://github.com/GilbertEmodi/AWS-ThreeTier-Web-App)
   - [Threat Detection with Amazon GuardDuty](https://github.com/GilbertEmodi/Threat-Detection-with-GuardDuty/tree/main)
   - [Transcribe Audio Files with AI]()
-  - [Launch a Kubernetes Cluster]()
+  - [Launch a Kubernetes Cluster](https://github.com/GilbertEmodi/Launch-Kubernetes-Cluster-part1-/tree/main)
   - [Visualize data with Amazon QuickSight]()
 
 
