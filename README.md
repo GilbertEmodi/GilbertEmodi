@@ -5,6 +5,7 @@
 
   - [AWS Three-Tier Web App](https://github.com/GilbertEmodi/AWS-ThreeTier-Web-App)
   - [Threat Detection with Amazon GuardDuty](https://github.com/GilbertEmodi/Threat-Detection-with-GuardDuty/tree/main)
+  - [Kubernetes Deployment](https://github.com/GilbertEmodi/Kubernetes)
 ---
   - [Launch a Kubernetes Cluster (pt.1)](https://github.com/GilbertEmodi/Launch-Kubernetes-Cluster-part1-/tree/main)
   - [Set Up Kubernetes Deployment (pt.2)](https://github.com/GilbertEmodi/Set-Up-Kubernetes-Deployment-part2-/tree/main)
