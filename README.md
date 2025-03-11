@@ -8,7 +8,7 @@
 ---
   - [Launch a Kubernetes Cluster (pt.1)](https://github.com/GilbertEmodi/Launch-Kubernetes-Cluster-part1-/tree/main)
   - [Set Up Kubernetes Deployment (pt.2)](https://github.com/GilbertEmodi/Set-Up-Kubernetes-Deployment-part2-/tree/main)
-  - [Create Kuberenetes Manifests (pt.3)]()
+  - [Create Kuberenetes Manifests (pt.3)](https://github.com/GilbertEmodi/Create-Kubernetes-Manifests-pt.3-)
   - [Deploy Backend with Kubernetes (pt.4)]()
 ---
   - [Build a Chatbot with Amazon Lex](https://github.com/GilbertEmodi/Build-a-Chatbot-with-Amazon-Lex/tree/main)
