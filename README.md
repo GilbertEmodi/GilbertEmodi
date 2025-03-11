@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gilbert! <br/> <a href="https://www.linkedin.com/in/gilbertemodi/">Cloud Engineer</a>, and <a href="https://github.com/gilbertemodi">Cyber Security Specialist</a> </h1>
 
-<h2>👨‍💻 AWS Cloud Projects:</h2>
+<h2>👨‍💻☁ AWS Cloud Projects:</h2>
 
 
   - [AWS Three-Tier Web App](https://github.com/GilbertEmodi/AWS-ThreeTier-Web-App)
