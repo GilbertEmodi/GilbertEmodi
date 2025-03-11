@@ -6,8 +6,8 @@
   - [AWS Three-Tier Web App](https://github.com/GilbertEmodi/AWS-ThreeTier-Web-App)
   - [Threat Detection with Amazon GuardDuty](https://github.com/GilbertEmodi/Threat-Detection-with-GuardDuty/tree/main)
   - [Kubernetes Deployment](https://github.com/GilbertEmodi/Kubernetes)
----
   - [Build a Chatbot with Amazon Lex](https://github.com/GilbertEmodi/Build-a-Chatbot-with-Amazon-Lex/tree/main)
+---
 
 
 
