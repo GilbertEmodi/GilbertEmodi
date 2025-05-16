@@ -6,6 +6,7 @@
 
 
   - [Kubernetes Deployment](https://github.com/GilbertEmodi/Kubernetes)
+  - [AWS Security Monitoring Architecture](https://github.com/GilbertEmodi/AWS-Security-Monitoring/tree/main)
   - [Threat Detection with Amazon GuardDuty](https://github.com/GilbertEmodi/Threat-Detection-with-GuardDuty/tree/main)
   - [AWS Three-Tier Web App](https://github.com/GilbertEmodi/AWS-ThreeTier-Web-App)
   - [Build a Chatbot with Amazon Lex](https://github.com/GilbertEmodi/Build-a-Chatbot-with-Amazon-Lex/tree/main)
